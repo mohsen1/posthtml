@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "posthtml-parser": "^0.3.3",
+    "posthtml-parser": "^0.12.1",
     "posthtml-render": "^1.1.0"
   },
   "devDependencies": {
